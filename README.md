@@ -10,7 +10,7 @@ A corpus of symptoms in COVID-19 related tweets
   <li>Description of Fields:<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1st field: Phrase<br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2nd field: Label<br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3nd field: CUI<br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3rd field: CUI<br />
   </li>
 </ul>
 
