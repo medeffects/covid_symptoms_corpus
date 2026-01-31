@@ -4,7 +4,7 @@ A corpus of symptoms in COVID-19 related tweets
 ### COVID-19 Symptom Corpus:
 **Description**: A corpus of symptoms found in COVID-19 related tweets <br />
 **Dataset** (102 phrases): [https://github.com/medeffects/tweet_corpora/blob/master/SupplementTweetCorpus8770-20160704.csv](https://github.com/medeffects/covid_symptoms_corpus/blob/main/all-symptoms-w-labels-updated.csv)<br />
-**Data Format***:
+**Data Format**:
 <ul>
   <li>Delimiter: Comma</li>
   <li>Description of Fields:<br />
@@ -14,4 +14,4 @@ A corpus of symptoms in COVID-19 related tweets
   </li>
 </ul>
 
-**Reference**: Jiang, K., Calix, R.A., & Gupta, M. (2016). Construction of a Personal Experience Tweet Corpus for Health Surveillance. In *Proceedings of the 15th Workshop on Biomedical Natural Language Processing* (pp. 128-135). http://www.aclweb.org/anthology/W16-2917
+**Reference**: Azam, I., Jiang, K., & Bernard, G.R. (2026). Normalizing Health Concepts with Biomedical Embedding and LLMs. In *Proceedings of the 1st Workshop on Linguistic Analysis for Health (HeaLing 2026)* 
